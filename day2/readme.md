@@ -11,3 +11,5 @@
 # react support a element directly 
 * no react not support a element directly but its give a function `React.create()` its allow to write a element 
 
+# project 03
+* using useState hook we built the counter app get reilable and optimize code . useState hook basicaly in built function use changing the state of element function to use change the state
