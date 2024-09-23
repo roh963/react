@@ -1,6 +1,6 @@
 
 # Day 1 
-## crating ract project throught vite react 
+## crating react project throught vite react 
 ### 1 `npm create vite@latest project`
 ### 2 `cd project `
 ### 3 `npm install`
