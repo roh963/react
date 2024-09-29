@@ -14,3 +14,5 @@
 
 # Apprite
 * we create appwrite config copy end point(url of appwrite ) and project id.create database 
+* write docs and login and sign up etc more add
+* database connection and storage image 
