@@ -16,3 +16,6 @@
 * we create appwrite config copy end point(url of appwrite ) and project id.create database 
 * write docs and login and sign up etc more add
 * database connection and storage image 
+
+# redux reducer store 
+* creating a store , auth (login ,logout ) setup of app.jsx and more of functionality
